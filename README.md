@@ -20,7 +20,6 @@
     .p-t-20 { padding-top: 0px; }
     .p-b-50 { padding-bottom: 0px; }
     .p-x-29 { padding-left: 29px; padding-right: 0px; }
-
     .box1, .box4 {
       width: 338px;
       background-color: #f2f2f2;
@@ -300,7 +299,6 @@
         </p>
       </div>
     </div>
-
     <div class="box2">
       <div class="text-wrap">
         <p class="font-lg weight-extrabold line-140 p-x-29 p-t-20">
